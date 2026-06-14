@@ -7,17 +7,6 @@ Versão **desktop em Python** do projeto, com interface moderna feita em **Custo
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
-## 📸 Demonstração
-
-> _Adicione aqui um screenshot ou GIF mostrando os dois modos (foco e pausa)._
->
-> ```
-> docs/foco.png    — tela em modo foco (tom sóbrio)
-> docs/pausa.png   — tela em modo pausa (tom verde-água) com a sugestão
-> ```
-
-Por ser uma aplicação desktop, não há demo ao vivo via navegador — basta seguir a seção [Como rodar localmente](#-como-rodar-localmente).
-
 ## ✨ Funcionalidades
 
 - ⏱️ Timer Pomodoro com **ciclo de foco** (padrão 25 min) e **pausa** (padrão 5 min).
