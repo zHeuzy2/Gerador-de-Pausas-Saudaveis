@@ -1,0 +1,5 @@
+# Interface gráfica moderna (obrigatória).
+customtkinter>=5.2.0
+
+# Dependência opcional: notificações nativas do sistema operacional.
+plyer>=2.1.0

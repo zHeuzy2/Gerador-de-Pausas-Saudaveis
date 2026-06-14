@@ -1,0 +1,24 @@
+{
+  "alongamento": [
+    { "titulo": "Alongue o pescoço", "descricao": "Incline a cabeça para cada lado por 15 segundos.", "icon": "🧘" },
+    { "titulo": "Gire os ombros", "descricao": "Faça 10 rotações lentas para frente e 10 para trás.", "icon": "💪" },
+    { "titulo": "Estique os braços", "descricao": "Entrelace os dedos e empurre as palmas para cima por 20s.", "icon": "🙆" },
+    { "titulo": "Alongue as costas", "descricao": "Em pé, incline-se para frente e deixe os braços soltos por 15s.", "icon": "🧎" },
+    { "titulo": "Alongue os pulsos", "descricao": "Estenda um braço e puxe os dedos para trás suavemente. Troque o lado.", "icon": "✋" },
+    { "titulo": "Toque os dedos dos pés", "descricao": "Sentado ou em pé, tente alcançar os pés sem forçar.", "icon": "🦵" }
+  ],
+  "hidratacao": [
+    { "titulo": "Beba um copo d'água", "descricao": "Hidrate-se antes de voltar ao foco.", "icon": "💧" },
+    { "titulo": "Prepare um chá", "descricao": "Uma bebida quente sem cafeína ajuda a relaxar.", "icon": "🍵" },
+    { "titulo": "Encha sua garrafa", "descricao": "Deixe água por perto para o próximo ciclo.", "icon": "🚰" },
+    { "titulo": "Coma uma fruta", "descricao": "Uma fruta fresca repõe a energia naturalmente.", "icon": "🍎" },
+    { "titulo": "Faça uma pausa para o café", "descricao": "Se for de manhã, um café com calma cai bem.", "icon": "☕" }
+  ],
+  "respiracao": [
+    { "titulo": "Respiração 4-7-8", "descricao": "Inspire por 4s, segure por 7s e expire por 8s.", "icon": "🧘‍♂️" },
+    { "titulo": "Respiração quadrada", "descricao": "Inspire 4s, segure 4s, expire 4s, segure 4s. Repita.", "icon": "🟦" },
+    { "titulo": "Respiração profunda", "descricao": "Faça 5 respirações lentas e profundas pelo abdômen.", "icon": "🌬️" },
+    { "titulo": "Feche os olhos", "descricao": "Por 30s, feche os olhos e foque apenas na respiração.", "icon": "😌" },
+    { "titulo": "Suspiro fisiológico", "descricao": "Duas inspirações curtas pelo nariz e uma expiração longa pela boca.", "icon": "🫁" }
+  ]
+}
