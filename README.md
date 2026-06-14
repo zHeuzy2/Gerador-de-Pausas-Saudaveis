@@ -7,6 +7,10 @@ Versão **desktop em Python** do projeto, com interface moderna feita em **Custo
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
+## 📸 Screenshot
+
+![Gerador de Pausas Saudáveis](./public/image.png)
+
 ## ✨ Funcionalidades
 
 - ⏱️ Timer Pomodoro com **ciclo de foco** (padrão 25 min) e **pausa** (padrão 5 min).
